@@ -5,5 +5,5 @@ Ansible is an open-source software provisioning, configuration management, and a
 GitHub Repo: https://github.com/MohammedHousa/Ansible
 
 Tutoriels: 
-1. AWS: How to connect two nodes to Ansible master https://www.youtube.com/watch?v=PATUqGQKMw0&list=PLUy8DvyX4nDEZNInJc2BgJ9nbCZ1BR6Np&index=1
-2. AWS: How to run Ansible playbook https://www.youtube.com/watch?v=dckBr04Ujrw&list=PLUy8DvyX4nDEZNInJc2BgJ9nbCZ1BR6Np&index=2
+1. Connect nodes to Ansible master https://youtu.be/PATUqGQKMw0
+2. Create and run Ansible playbook https://youtu.be/dckBr04Ujrw
