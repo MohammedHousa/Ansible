@@ -36,7 +36,7 @@
       post_reboot_delay: 60
     when: apt_update_status.changed
 
-- hosts: ipkg
+- hosts: all
   tasks:
   - name: Update the Packages installed on Diskstation
     command: /opt/bin/ipkg update && /opt/bin/ipkg upgrade
